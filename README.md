@@ -6,7 +6,7 @@ Sample repo for walkthru 2 of the fast.ai course.
 
 This is another paragraph.
 
-## More datails
+## More details
 
 Hereä's a list:
 
